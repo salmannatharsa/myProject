@@ -1,0 +1,6 @@
+c:\users\asger\documents\visual studio 2015\Projects\FirstAp\FirstAp\bin\Debug\FirstAp.exe.config
+c:\users\asger\documents\visual studio 2015\Projects\FirstAp\FirstAp\bin\Debug\FirstAp.exe
+c:\users\asger\documents\visual studio 2015\Projects\FirstAp\FirstAp\bin\Debug\FirstAp.pdb
+c:\users\asger\documents\visual studio 2015\Projects\FirstAp\FirstAp\obj\Debug\FirstAp.csprojResolveAssemblyReference.cache
+c:\users\asger\documents\visual studio 2015\Projects\FirstAp\FirstAp\obj\Debug\FirstAp.exe
+c:\users\asger\documents\visual studio 2015\Projects\FirstAp\FirstAp\obj\Debug\FirstAp.pdb
